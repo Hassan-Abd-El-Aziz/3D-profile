@@ -224,3 +224,7 @@ body {
 .nexprev-btn:hover {
   color: var(--main-color);
 }
+
+.nexprev-btn.back{
+  left: 1.5rem;
+}
